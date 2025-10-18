@@ -1,0 +1,13 @@
+<Car> <!-- object -->
+    <Brand>Toyota</Brand> <!-- field -->
+    <Model>Corolla</Model>
+    <Color>Red</Color>
+    <Engine> <!-- nested object -->
+        <Capacity>1500cc</Capacity>
+        <Type>Petrol</Type>
+    </Engine>
+    <Owner> <!-- nested object -->
+        <Firstname>Charan</Firstname>
+        <Lastname>M</Lastname>
+    </Owner>
+</Car>

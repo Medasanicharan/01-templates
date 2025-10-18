@@ -1,0 +1,15 @@
+{
+  "Car": { 
+    "Brand": "Toyota", 
+    "Model": "Corolla",
+    "Color": "Red",
+    "Engine": {
+      "Capacity": "1500cc",
+      "Type": "Petrol"
+    },
+    "Owner": {
+      "Firstname": "Charan",
+      "Lastname": "M"
+    }
+  }
+}
