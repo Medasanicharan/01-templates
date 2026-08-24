@@ -21,13 +21,3 @@
     doorNo: 24/7
     street: ITPL
 
-- firstname: Charan
-  lastname: M
-  email: charan@gmail.com
-  addresses: # list of addresses
-  - type: permanent address
-    doorNo: 24/7
-    street: ITPL
-  - type: current address
-    doorNo: 24/7
-    street: ITPL
